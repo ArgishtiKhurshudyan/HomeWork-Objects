@@ -1,0 +1,1 @@
+This home work about objects , i write and  use obj destructuring , get obj keys.
